@@ -1,0 +1,42 @@
+# Data files (not shared publicly)
+data/
+*.csv
+*.avro
+*.pkl
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (figures and results are tracked)
+!figures/*.png
+!figures/*.pdf
+!out/jmir_revised/*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user
