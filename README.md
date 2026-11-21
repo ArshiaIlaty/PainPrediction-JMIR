@@ -305,7 +305,7 @@ Output: `figures/session_overviews/session_{01..24}.png`
 If you use this code, please cite:
 
 ```
-[Citation to be added upon publication]
+Citation to be added upon publication
 ```
 
 ## License
@@ -315,11 +315,9 @@ MIT License - see LICENSE file for details.
 ## Contact
 
 For questions about the code or data access requests:
-- **Corresponding Author:** [Name, Email]
+- **Corresponding Author:** Thomas D. Hughes, thomasdh@uci.edu and Arshia Ilaty, ailaty@uci.edu
 - **Code Issues:** https://github.com/ArshiaIlaty/PainPrediction-JMIR/issues
 
 ## Acknowledgments
-
-This work was supported by [Grant information to be added].
 
 Empatica E4 and EmbracePlus devices were provided by Empatica Inc.
